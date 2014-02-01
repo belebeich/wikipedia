@@ -9,7 +9,7 @@ body {
   background-color: #E6E6FA;  
 }
 header {
-  background: url(imgs/talking-heads.jpg);
+  background: url(imgs/talking-heads.jpg) fixed;
 }
 header h1 {
   height: 400px;
